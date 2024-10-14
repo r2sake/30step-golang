@@ -36,9 +36,9 @@ func InputCheckForExercisesCode(inStr []string, step int) (int, bool) {
 		fmt.Println("Example name should be in the format 'exercises<number>'")
 		return 0, false
 	}
-	exercisesNo, err := strconv.Atoi(exercisesName[6:])
+	exercisesNo, err := strconv.Atoi(exercisesName[9:])
 	if err != nil {
-		fmt.Printf("Invalid exercises number: %s\n", exercisesName[6:])
+		fmt.Printf("Invalid exercises number: %s\n", exercisesName[9:])
 		return 0, false
 	}
 	return exercisesNo, true
