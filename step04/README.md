@@ -1,4 +1,4 @@
-# ステップ06: コンソールからの入力と出力
+# ステップ04: Go言語の変数とデータ型
 
 ## 対応するブログ記事
 [【ステップ4】Go言語の変数とデータ型](https://strong-engineer.com/golang/go-variables-and-data-types/)

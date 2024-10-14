@@ -1,4 +1,4 @@
-# ステップ06: コンソールからの入力と出力
+# ステップ05: Go言語の基本的な演算子と式
 
 ## 対応するブログ記事
 [【ステップ5】Go言語の基本的な演算子と式](https://strong-engineer.com/golang/operators-and-expressions/)
