@@ -16,11 +16,11 @@ func main() {
 		case 1:
 			runSample1()
 		case 2:
-			runSample1()
+			runSample2()
 		case 3:
-			runSample1()
+			runSample3()
 		case 4:
-			runSample1()
+			runSample4()
 		default:
 			fmt.Printf("Unknown sample: %s\n", os.Args[1])
 			availableSamples()
